@@ -26,10 +26,13 @@
 2. Создать новый проект и виртуальное окружение.
 3. Клонировать проект из публичного рипозитория git командой
 > git clone https://github.com/DeadGEEK990/cloud-test-tusk
+
+После этого в папке с вашим проектом появится папка cloud-test-tusk,
+в которой хранятся все файлы.
 3. Установить необходимые библиотеки
-> pip install -r requirements.txt
+> pip install -r cloud-test-tusk/requirements.txt
 4. Запустить файл main.py в терминале
-> python main.py 
+> python cloud-test-tusk/main.py
 
 После чего ввести в терминале набор чисел через пробел и нажать Enter. Например:
 > 1 2 5 9 21 42 90 24
