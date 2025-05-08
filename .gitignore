@@ -1,0 +1,44 @@
+# Папки виртуальных окружений
+.venv/
+env/
+venv/
+ENV/
+
+# Папки и файлы временных данных
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Файлы IDE
+.vscode/
+.idea/
+*.iml
+
+# Пакеты Python
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+
+# Файлы с настройками и сессионные файлы
+*.log
+*.bak
+
+# Файлы Python для тестирования
+*.cover
+.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Файлы настроек PyCharm
+*.idea/
+
+# Файлы системных резервных копий
+*~
