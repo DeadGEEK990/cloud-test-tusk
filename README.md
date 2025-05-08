@@ -25,7 +25,7 @@
 1. Запустить вашу IDE (например PyCharm).
 2. Создать новый проект и виртуальное окружение.
 3. Клонировать проект из публичного рипозитория git командой
-> git clone https://github.com/username/repository.git
+> git clone https://github.com/DeadGEEK990/cloud-test-tusk
 3. Установить необходимые библиотеки
 > pip install -r requirements.txt
 4. Запустить файл main.py в терминале
